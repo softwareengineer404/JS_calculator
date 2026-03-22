@@ -13,3 +13,12 @@ body{
     max-width: 500px;
     overflow: hidden;
 }
+#display{
+    width: 1000px;
+    padding: 20px;
+    font-size: 5rem;
+    text-align: left;
+    border: none;
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+}
